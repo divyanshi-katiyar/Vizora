@@ -4,10 +4,6 @@
 
 **Transform complex data into intuitive, stunning visual insights.**
 
-[![GitHub stars](https://img.shields.io/github/stars/vartika-dhochak2158/Vizora?style=for-the-badge&color=blue)](https://github.com/vartika-dhochak2158/Vizora/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/vartika-dhochak2158/Vizora?style=for-the-badge&color=teal)](https://github.com/vartika-dhochak2158/Vizora/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/vartika-dhochak2158/Vizora?style=for-the-badge&color=orange)](https://github.com/vartika-dhochak2158/Vizora/issues)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <a href="#about">About</a> •
