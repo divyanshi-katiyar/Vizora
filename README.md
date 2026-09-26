@@ -62,5 +62,5 @@ Follow these steps to set up Vizora locally:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/vartika-dhochak2158/Vizora.git](https://github.com/vartika-dhochak2158/Vizora.git)
+   git clone [https://github.com/divyanshi-katiyar/Vizora.git](https://github.com/divyanshi-katiyar/Vizora.git)
    cd Vizora
